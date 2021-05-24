@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🌱 I’m currently learning **JavaScript,Python,Word Press**<br>
 - 📝 I regularly write articles on [https://galibnotes.com/](https://galibnotes.com/)<br>
-- 📫 How to reach me **jyotirmoyisahajyoti@gmail.com**
+- 📫 How to reach me **jyotirmoyisaha14@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jyotirmoyisaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jyotirmoyisaha" height="30" width="40" /></a>
