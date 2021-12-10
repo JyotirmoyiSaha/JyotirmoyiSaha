@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoyi Saha</h1>
 <h3 align="center">A Girl trying to fulfill my own dream!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🌱 I’m currently learning **JavaScript,Python,Word Press**<br>
+- 🌱 I’m currently learning **JavaScript,PHP,Laravel**<br>
 - 📝 I regularly write articles on [https://galibnotes.com/](https://galibnotes.com/)<br>
 - 📫 How to reach me **jyotirmoyisaha14@gmail.com**
 <h3 align="left">Connect with me:</h3>
